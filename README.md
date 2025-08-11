@@ -31,7 +31,7 @@ While the standalone neural network achieved higher raw accuracy, the primary go
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/hybrid-neuro-fuzzy-medical-diagnosis.git](https://github.com/your-username/hybrid-neuro-fuzzy-medical-diagnosis.git)
+    git clone [https://github.com/PplSeeThis/hybrid-neuro-fuzzy-medical-diagnosis.git](https://github.com/PplSeeThis/hybrid-neuro-fuzzy-medical-diagnosis.git)
     cd hybrid-neuro-fuzzy-medical-diagnosis
     ```
 2.  **Create and activate a virtual environment.**
